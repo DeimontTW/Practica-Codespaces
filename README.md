@@ -103,7 +103,7 @@ Al dar ENTER, nos saldrá algo así:
 *6.5.* Copia y pega **en la terminal** lo siguiente:
 
 ```
-python3 \-m http.server 8000
+python3 -m http.server 8000
 ```
 
 *Una vez copiado y pegado, lucirá así:*  
